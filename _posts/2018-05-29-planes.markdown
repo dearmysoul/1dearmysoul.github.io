@@ -1,13 +1,13 @@
 ---
-title:  “잘 되는거냐!!!”
-subtitle: “좀 되라!!”
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+title:  “테스트입니다”
+subtitle: “에박으로 테스트 합니다.!!”
+author: "alt er love"
+avatar: "img/authors/evak.png"
+image: "img/1_house.jpg"
+date:   2018-05-29 08:21:21
 ---
 
-### Dolor sit amet?
+### 잘 되는거니?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
 
 ### Aliquam suscipit.
