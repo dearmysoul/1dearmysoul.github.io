@@ -1,7 +1,7 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
+title:  "다시 테스트 합니다."
+subtitle: "이번에는 됐으면 좋겠네요."
+author: "Red cats"
 avatar: "img/authors/evak.png"
 image: "img/1_house.jpg"
 date:   2015-04-24 12:12:12
