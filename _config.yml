@@ -1,7 +1,7 @@
 # Site settings
-title: Dear My Soul Blog
-description: My First Blog
-keywords: Modern, Blogging, Fun
-author: red_sun
+title: Red Cat's Blog
+description: Test-Blog
+keywords: Evak, Skam, Love
+author: Red cats
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
